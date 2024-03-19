@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamdeepkeshav
+- 👋 Hi, I’m Shubhamdeepkeshav
 - 👀 I’m interested in Data science and AI
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...

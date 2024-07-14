@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and AI
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on exciting data science projects.
-- 📫 How to reach me 
+- 📫 How to reach me sdkeshav201@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love hiking and exploring new trails.
 

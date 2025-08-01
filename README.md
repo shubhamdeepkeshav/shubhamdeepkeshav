@@ -40,12 +40,13 @@
 
 | Project Name | Description |
 |--------------|-------------|
-| 🧠 **Customer Churn Prediction** | Built a machine learning model to detect likely churners in telecom |
-| 🍄 **Mushroom Classifier** | Predicts whether a mushroom is poisonous or edible using classification |
-| 📊 **Sales Analysis Dashboard** | Created a dynamic Power BI dashboard for sales trend analysis |
-| 🏦 **Bank Loan Default Predictor** | Logistic regression model to classify default risk |
-| 🧾 **Expense Category Predictor App** | Android app using ML to auto-tag expense types |
-| 🌍 **MCA Project: Animated Earth** | A creative 2D animation on Earth’s life & environment (awareness meets art!) |
+| 🧠 **Customer Churn Prediction** | Deep learning model using TensorFlow/Keras to predict telecom customer churn. Included data cleaning, feature engineering & evaluation. |
+| 🍄 **Mushroom Classifier (iNeuron)** | Machine learning project to classify mushrooms as edible or poisonous using Logistic Regression, SVM, Decision Tree, etc. |
+| 💳 **Fraud Detection System** | Detects fraudulent credit card transactions using ML algorithms. Focus on model accuracy, preprocessing & real-time detection. |
+| 🎮 **Maze Game** | A procedurally generated maze game using Python and Pygame with Recursive Backtracking algorithm. |
+| 🔐 **Pass Master (Tkinter App)** | Python GUI tool to generate strong passwords using random combinations of letters, numbers, and symbols. |
+| 📈 **Tips Data Visualizer** | Python project exploring restaurant tipping behavior with Seaborn & Matplotlib (EDA + Visualization). |
+| 🌍 **MCA Project: Animated Earth** | A 2D animation using multimedia tools to depict Earth’s environment, promoting sustainability awareness. |
 
 ➡️ _More Live Soon — Stay Tuned!_
 

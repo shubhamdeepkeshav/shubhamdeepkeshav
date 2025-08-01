@@ -46,7 +46,6 @@
 | 🎮 **Maze Game** | A procedurally generated maze game using Python and Pygame with Recursive Backtracking algorithm. |
 | 🔐 **Pass Master (Tkinter App)** | Python GUI tool to generate strong passwords using random combinations of letters, numbers, and symbols. |
 | 📈 **Tips Data Visualizer** | Python project exploring restaurant tipping behavior with Seaborn & Matplotlib (EDA + Visualization). |
-| 🌍 **MCA Project: Animated Earth** | A 2D animation using multimedia tools to depict Earth’s environment, promoting sustainability awareness. |
 
 ➡️ _More Live Soon — Stay Tuned!_
 
